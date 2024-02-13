@@ -2,7 +2,7 @@
 
 ### Haar Cascades - OpenCV
 
-##### [Face Detection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/facedetection.py)
+#### [Face Detection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/facedetection.py)
 
 • Taylor Swift Face Detection
 
