@@ -20,14 +20,14 @@
 
 ![video2](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/0ac344ec-849a-4e9f-a28c-e023c815c5eb)
 
-### [Uygulama 1 : Face and Eye Detection ](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev1.py)
+#### [Uygulama 1 : Face and Eye Detection ](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev1.py)
 
 • Lana Del Rey Face and Eye Detection
 
 ![eyedetection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/2205f795-d7fa-4010-b568-32741358a3f8)
 
-### [Uygulama 2 : Face and Eye Detection -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev2.py)
+#### [Uygulama 2 : Face and Eye Detection -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev2.py)
 
-### [Uygulama 2 : Face + Eye Detection and Eye Contour -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev3.py)
+#### [Uygulama 3 : Face + Eye Detection and Eye Contour -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev3.py)
 
 
