@@ -90,3 +90,5 @@
 
 ### [Blink Detection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/blink.py)
 
+### [Exercise 1 : Mouth and Eye Area](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/agizgozalani.py)
+
