@@ -52,7 +52,21 @@
 
 ![cnn3](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/3ae8f6e9-2e66-477a-876a-c76bca6ed0c1)
 
+## Face Recognition 
 
+### [Face Recognition](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/facerecognition.py)
 
+• Taylor and Lana Face Recognition Test 1
 
+![recog1](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/cccda446-38d3-4e8b-b8dd-1878848096e2)
+
+• Taylor and Selena Face Recognition Test 2
+
+![recog2](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/3cf22b6a-602c-4b46-a839-964882ed27d8)
+
+• Ariana Face Recognition Test 3
+
+![recog3](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/765f2616-1767-49ec-858d-c270743c6477)
+
+### [Face Recognition Webcam](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/facerecognition-video.py)
 
