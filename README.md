@@ -20,15 +20,15 @@
 
 ![video2](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/0ac344ec-849a-4e9f-a28c-e023c815c5eb)
 
-#### [Uygulama 1 : Face and Eye Detection ](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev1.py)
+#### [Exercise 1 : Face and Eye Detection ](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev1.py)
 
 • Lana Del Rey Face and Eye Detection
 
 ![eyedetection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/2205f795-d7fa-4010-b568-32741358a3f8)
 
-#### [Uygulama 2 : Face and Eye Detection -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev2.py)
+#### [Exercise 2 : Face and Eye Detection -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev2.py)
 
-#### [Uygulama 3 : Face + Eye Detection and Eye Contour -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev3.py)
+#### [Exercise 3 : Face + Eye Detection and Eye Contour -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev3.py)
 
 ## HOG / CNN Face Detection
 
@@ -84,5 +84,9 @@
 
 ### [Facial Landmark Webcam](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/faciallandmark-video.py)
 
+## Exercises
 
+### [Face Blurring](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/faceblurring.py)
+
+### [Blink Detection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/blink.py)
 
