@@ -30,4 +30,29 @@
 
 #### [Uygulama 3 : Face + Eye Detection and Eye Contour -- Camera](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/haarcascade%C3%B6dev3.py)
 
+## HOG / CNN Face Detection
+
+### [HOG Face Detection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/hog.py)
+
+• Lana Del Rey Face Detection (HOG)
+
+![hog1](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/d2b5e3b9-2f38-486a-b9db-101b1321b974)
+
+![hog2](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/012a9290-fa9d-4d26-bfa4-264261e016a9)
+
+### [CNN Face Detection](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/hogcnnfacedetection.py)
+
+![cnn1](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/1ab65504-33a3-464d-8055-7f3e7e235a93)
+
+![cnn2](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/7c88121a-0ffd-4c33-906e-44bf142a1c64)
+
+### [CNN Face Detection - Video ](https://github.com/defnebusecelik/Face-Detection-and-Recognition/blob/main/hogcnnfacedetection--video.py)
+
+• Taylor Swift Speech Video Face Detection CNN
+
+![cnn3](https://github.com/defnebusecelik/Face-Detection-and-Recognition/assets/110555559/3ae8f6e9-2e66-477a-876a-c76bca6ed0c1)
+
+
+
+
 
